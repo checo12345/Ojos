@@ -27,7 +27,7 @@ import uk.co.caprica.vlcj.runtime.RuntimeUtil;
 /**
  * @web http://www.jc-mouse.net/
  * @author Sergio
- * 
+ * @author Pantaleón
  */
 public class Reproductor extends javax.swing.JFrame {
 

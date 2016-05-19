@@ -19,9 +19,15 @@ import uk.co.caprica.vlcj.player.MediaPlayer;
 import uk.co.caprica.vlcj.player.MediaPlayerEventAdapter;
 import uk.co.caprica.vlcj.runtime.RuntimeUtil;
 
+
+
+
+
+
 /**
  * @web http://www.jc-mouse.net/
- * @author Mouse
+ * @author Sergio
+ * 
  */
 public class Reproductor extends javax.swing.JFrame {
 
